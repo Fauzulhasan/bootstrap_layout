@@ -1,0 +1,48 @@
+/*header start*/
+header,footer{
+    min-height: 100px;
+    background-color: #9BC3FA;
+}
+.brand{
+    min-height: 80px;
+    margin: 10px 0 10px 0;
+    background-color: #CCE0FB;
+}
+
+.hero,content,footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.common_color{
+    background-color: #9BC3FA;
+}
+.add{
+    background-color: #70A8DD;
+    min-height: 200px
+}
+.hero_common_style{
+    background-color: #CCE0FB;
+    min-height: 180px;
+     margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pr_disable{
+    padding-right: 0px;
+}
+.common_height{
+    min-height: 400px;
+}
+.content_common_style{
+    background-color: #CCE0FB;
+    min-height: 350px;
+     margin-top: 25px;
+    margin-bottom: 25px;
+}
+.sidebar_nav{
+    overflow: hidden;
+}
+.sidebar_feature{
+    background-color: #CCE0FB;
+    min-height: 350px;
+    margin: 20px;
+}
